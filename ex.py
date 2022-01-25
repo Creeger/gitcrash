@@ -1,2 +1,2 @@
-print('123343')
-print('afrgreg')
+for i in range(50):
+    print('hello per')
