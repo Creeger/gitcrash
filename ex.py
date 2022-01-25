@@ -1,1 +1,2 @@
-print('afrgreg')
+for i in range(50):
+    print('hello per')
